@@ -1,0 +1,51 @@
+Match_ID,Date,Player_Name,Team,Game_Mode,Shots_Fired,Hits,Lives_Lost,Eliminations,Match_Duration_Min,Win,Marker_Type,Mask_Type,Air_Tank,Equipment_Rental_Cost
+M001,2025-01-12,Adam,Red Rangers,Capture the Flag,120,35,2,5,20,Yes,Eclipse Etha 3,JT Spectra,3000psi,45
+M002,2025-01-12,Brian,Blue Vipers,Capture the Flag,150,28,3,4,20,No,Planet Eclipse LV1,Dye i5,4500psi,50
+M003,2025-01-12,Chen,Red Rangers,Capture the Flag,98,31,1,6,20,Yes,Tippmann A5,Empire Helix,3000psi,40
+M004,2025-01-12,Daniel,Blue Vipers,Capture the Flag,140,25,4,3,20,No,Spire IV,JT Premise,4500psi,42
+M005,2025-01-13,Ethan,Green Hunters,Elimination,110,29,2,4,18,Yes,Tippmann Cronus,JT Spectra,3000psi,38
+M006,2025-01-13,Farah,Yellow Hawks,Elimination,130,30,3,5,18,No,Planet Eclipse Etha 3,Dye i4,4500psi,50
+M007,2025-01-13,Hannah,Green Hunters,Elimination,115,34,1,6,18,Yes,Tippmann Cronus,Empire Helix,3000psi,35
+M008,2025-01-13,Irfan,Yellow Hawks,Elimination,145,27,4,3,18,No,Planet Eclipse LV1,JT Premise,4500psi,48
+M009,2025-01-14,Jenny,Shadow Wolves,Speedball,100,33,2,5,22,Yes,Eclipse Etha 3,Dye i5,4500psi,52
+M010,2025-01-14,Kumar,Shadow Wolves,Speedball,105,32,1,6,22,Yes,Tippmann A5,Empire Helix,3000psi,42
+M011,2025-01-14,Lisa,Stealth Tigers,Speedball,155,26,3,4,22,No,Planet Eclipse LV1,Dye i4,4500psi,55
+M012,2025-01-14,Mike,Stealth Tigers,Speedball,160,25,4,3,22,No,Spire IV,JT Spectra,4500psi,48
+M013,2025-01-15,Nadia,Red Rangers,Capture the Flag,112,30,2,5,20,Yes,Tippmann Cronus,Dye i5,3000psi,45
+M014,2025-01-15,Oscar,Blue Vipers,Capture the Flag,143,27,3,4,20,No,Eclipse Etha 3,JT Spectra,4500psi,50
+M015,2025-01-15,Paul,Red Rangers,Capture the Flag,118,33,1,5,20,Yes,Tippmann A5,Empire Helix,3000psi,40
+M016,2025-01-15,Quentin,Blue Vipers,Capture the Flag,139,29,3,3,20,No,Planet Eclipse Etha 3,Dye i4,4500psi,55
+M017,2025-01-16,Rachel,Green Hunters,Elimination,124,35,2,4,19,Yes,Tippmann A5,JT Premise,3000psi,38
+M018,2025-01-16,Steve,Yellow Hawks,Elimination,149,31,3,4,19,No,Eclipse Etha 3,Dye i5,4500psi,52
+M019,2025-01-16,Tina,Green Hunters,Elimination,116,34,1,6,19,Yes,Tippmann Cronus,Empire Helix,3000psi,36
+M020,2025-01-16,Umar,Yellow Hawks,Elimination,141,28,4,3,19,No,Planet Eclipse LV1,Dye i4,4500psi,50
+M021,2025-01-17,Victor,Shadow Wolves,Speedball,108,36,2,6,21,Yes,Tippmann A5,JT Spectra,3000psi,46
+M022,2025-01-17,Wan,Shadow Wolves,Speedball,111,33,2,5,21,Yes,Planet Eclipse Etha 3,Dye i5,4500psi,54
+M023,2025-01-17,Xander,Stealth Tigers,Speedball,158,25,4,4,21,No,Spire IV,JT Premise,4500psi,47
+M024,2025-01-17,Yuki,Stealth Tigers,Speedball,162,23,4,3,21,No,Planet Eclipse LV1,Empire Helix,4500psi,53
+M025,2025-01-18,Zara,Red Rangers,Capture the Flag,132,29,2,4,20,Yes,Tippmann Cronus,JT Spectra,3000psi,41
+M026,2025-01-18,Aaron,Blue Vipers,Capture the Flag,147,28,3,3,20,No,Eclipse Etha 3,Dye i4,4500psi,50
+M027,2025-01-18,Bella,Red Rangers,Capture the Flag,115,34,1,5,20,Yes,Planet Eclipse LV1,Empire Helix,4500psi,56
+M028,2025-01-18,Carl,Blue Vipers,Capture the Flag,139,27,3,4,20,No,Tippmann A5,Dye i5,3000psi,44
+M029,2025-01-19,Dina,Green Hunters,Elimination,113,33,2,5,19,Yes,Eclipse Etha 3,JT Spectra,4500psi,51
+M030,2025-01-19,Elon,Yellow Hawks,Elimination,150,26,3,3,19,No,Planet Eclipse LV1,Dye i4,4500psi,49
+M031,2025-01-19,Fiona,Green Hunters,Elimination,120,35,1,6,19,Yes,Tippmann Cronus,Empire Helix,3000psi,37
+M032,2025-01-19,Gary,Yellow Hawks,Elimination,145,28,4,4,19,No,Tippmann A5,Dye i5,3000psi,43
+M033,2025-01-20,Hari,Shadow Wolves,Speedball,109,34,2,6,22,Yes,Eclipse Etha 3,JT Spectra,4500psi,55
+M034,2025-01-20,Ivy,Shadow Wolves,Speedball,113,32,2,5,22,Yes,Tippmann Cronus,Empire Helix,3000psi,39
+M035,2025-01-20,Jack,Stealth Tigers,Speedball,153,26,3,4,22,No,Planet Eclipse LV1,Dye i4,4500psi,50
+M036,2025-01-20,Kelvin,Stealth Tigers,Speedball,159,24,4,3,22,No,Spire IV,Dye i5,4500psi,52
+M037,2025-01-21,Lara,Red Rangers,Capture the Flag,133,30,2,4,20,Yes,Tippmann A5,JT Premise,3000psi,42
+M038,2025-01-21,Miran,Blue Vipers,Capture the Flag,148,27,3,3,20,No,Eclipse Etha 3,Dye i5,4500psi,51
+M039,2025-01-21,Nico,Red Rangers,Capture the Flag,120,33,1,5,20,Yes,Planet Eclipse LV1,Empire Helix,4500psi,57
+M040,2025-01-21,Omar,Blue Vipers,Capture the Flag,138,25,4,3,20,No,Tippmann A5,JT Spectra,3000psi,45
+M041,2025-01-22,Pia,Green Hunters,Elimination,110,29,2,4,19,Yes,Eclipse Etha 3,Dye i4,4500psi,50
+M042,2025-01-22,Qi,Yellow Hawks,Elimination,135,27,3,3,19,No,Tippmann Cronus,Empire Helix,3000psi,36
+M043,2025-01-22,Rudi,Green Hunters,Elimination,118,31,1,6,19,Yes,Planet Eclipse LV1,JT Spectra,4500psi,53
+M044,2025-01-22,Sean,Yellow Hawks,Elimination,143,28,4,3,19,No,Tippmann A5,Dye i5,3000psi,47
+M045,2025-01-23,Tracy,Shadow Wolves,Speedball,102,35,2,6,22,Yes,Tippmann Cronus,JT Premise,3000psi,38
+M046,2025-01-23,Usha,Shadow Wolves,Speedball,108,33,2,5,22,Yes,Eclipse Etha 3,Dye i5,4500psi,54
+M047,2025-01-23,Vin,Stealth Tigers,Speedball,149,25,4,4,22,No,Planet Eclipse LV1,Dye i4,4500psi,50
+M048,2025-01-23,Will,Stealth Tigers,Speedball,155,24,4,3,22,No,Spire IV,JT Spectra,4500psi,48
+M049,2025-01-24,Xena,Red Rangers,Capture the Flag,117,32,2,5,20,Yes,Tippmann A5,Dye i5,3000psi,43
+M050,2025-01-24,Yasmin,Blue Vipers,Capture the Flag,146,26,3,3,20,No,Planet Eclipse Etha 3,JT Spectra,4500psi,50
